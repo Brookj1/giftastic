@@ -1,0 +1,24 @@
+.giphs {
+    float: right;
+    margin: 1%;
+    position: relative;
+}
+
+#form {
+    float: left;
+}
+
+.topic-button-placeholder {
+    float: left;
+    margin-left: 22%;
+}
+
+#giphyView {
+    float: left;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.jumbotron {
+    background-image: url("../images/rose-729509_1920.jpg");
+}
